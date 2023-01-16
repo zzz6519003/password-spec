@@ -1,4 +1,4 @@
-# pwd-spec
+# pwd-spec [pr welcomed]
 Different website have different password specification, this is a summary of it.
 
 [6+] at least 6
@@ -12,3 +12,12 @@ Different website have different password specification, this is a summary of it
 [upper] contains uppercase
 
 [lower] contains lowercase
+
+
+### Sites
+
+ArtStation: [6+][num][special][upper][lower] (a combine of them)
+
+### How to contribute
+
+just modify readme inline on the webpage
