@@ -16,7 +16,9 @@ Different website have different password specification, this is a summary of it
 
 ### Sites
 
-ArtStation: [6+][num][special][upper][lower] (a combine of them)
+- ArtStation: [6+][num][special][upper][lower] (a combine of them)
+
+- epic games: [7+][num]
 
 ### How to contribute
 
