@@ -24,7 +24,9 @@ Different website have different password specification, this is a summary of it
 
 > Password requirements met!  8 characters  1 number 1 special character e.g., $, !, @, %, & No leading or trailing whitespace
 
+- HuggingFace
 
+> Password shorter than 12 characters must contain a special symbol
 
 ### How to contribute
 
