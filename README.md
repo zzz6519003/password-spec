@@ -28,6 +28,10 @@ Different website have different password specification, this is a summary of it
 
 > Password shorter than 12 characters must contain a special symbol
 
+- Samsung Cloud(China)
+
+> three consecutive char or three repeated char
+
 ### How to contribute
 
 just modify readme inline on the webpage
