@@ -1,5 +1,8 @@
-# pwd-spec [pr welcomed]
-Different website have different password specification, this is a summary of it.
+# password-spec [pr welcomed]
+
+The fact is that you can't have one password for all services. Because-
+
+Different website have different password specification(requirements), this is a summary of it.
 
 [6+] at least 6
 
