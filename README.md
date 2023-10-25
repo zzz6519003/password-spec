@@ -35,6 +35,11 @@ Different website have different password specification(requirements), this is a
 
 > three consecutive char or three repeated char
 
+- OpenAI
+
+> At least 12 characters
+
+
 ### How to contribute
 
 just modify readme inline on the webpage
